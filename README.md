@@ -1,5 +1,6 @@
-# amazing-vue3-quickstart-template
-:star: This is my Vue3 template for future and some current projects. Trying out tailwind over bootstrap! 
+# lucas's-amazing-vue3-quickstart-template
+
+This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
